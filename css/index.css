@@ -1,0 +1,227 @@
+body {
+    background-color: black;
+    font-size: 40px;
+}
+
+h1 {
+    color: rgb(18, 141, 79);
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+div#text { width: 0px;
+    height: 2em;
+     white-space: nowrap;
+      
+      color:rgb(126, 139, 133);
+      background-color: silver;
+      font-size: 75px;
+      font-weight: bolder;
+      
+      position: absolute;
+     }
+.main {
+    position: relativel;
+    margin-bottom: 100px;
+    max-width: 100%;
+}
+
+.title {
+   position: absolute;
+    top: 45%;
+    left: 10%;
+    color: rgb(16, 141, 99);
+    font-size: 80px;
+    font-weight: bolder;
+    background-color: rgb(145, 160, 152);
+}
+
+.sub_title {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    color: rgb(28, 94, 61);
+    font-size: 60px;
+    font-weight: bolder;
+    background-color: rgb(145, 160, 152);
+}
+
+.see_resume {
+    position: absolute;
+    top: 75%;
+    right: 70%;
+    font-weight: bold;
+    padding: 30px 40px;
+    background-color: rgb(162, 204, 63);
+    border-color: darkslategrey;
+    color: rgb(18, 141, 79);
+    cursor: pointer;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.specilization {
+    text-align: center;
+    position: relative;
+}
+
+.specilization_title {
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    color: rgb(108, 170, 8);
+}
+
+.img_spec {
+    border-radius: 20px;
+    margin-right: 25px;
+    margin-top: 50px;
+    float: center;
+    width: 24%;
+}
+
+.java_name {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    padding-top: 50px;
+}
+
+.android_name {
+    position: absolute;
+    left: 38%;
+    top: 50%;
+    padding-top: 50px;
+}
+
+.adobe_name {
+    position: absolute;
+    left: 68%;
+    top: 50%;
+    padding-top: 50px;
+}
+
+.java_prof {
+    position: absolute;
+    left: 10%;
+    top: 75%;
+}
+
+.android_prof {
+    position: absolute;
+    left: 38%;
+    top: 75%;
+}
+
+.adobe_prof {
+    position: absolute;
+    left: 68%;
+    top: 75%;
+}
+
+h2 {
+    position: absolute;
+    font-size: 75px;
+    font-weight: bolder;
+    color: rgb(136, 139, 136);
+}
+
+.desc {
+    text-align: left;
+    color: black;
+    color: rgb(18, 141, 79);
+    margin-left: 180px;
+    margin-right: 200px;
+}
+
+.img {
+    text-align: left;
+    padding-top: 10px;
+}
+
+.projects {
+    text-align: center;
+}
+.project_desc {
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 200px;
+    
+  }
+.project_title {
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(18, 141, 79);
+    margin-bottom: 30px;
+}
+
+.project_img {
+    text-align: center;
+}
+
+.prev {
+    margin-bottom: 200px;
+}
+
+.next {
+    margin-bottom: 200px;
+}
+
+.actual_img {
+    border-radius: 15px;
+}
+
+.project_desc {
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 200px;
+    color: rgb(116, 138, 126);
+}
+
+.project_content {
+    text-align: left;
+    color: rgb(18, 141, 79);
+}
+
+.project_name {
+    text-align: left;
+    color: rgb(116, 138, 126);
+    margin-left: 20px;
+}
+
+.resume {
+    text-align: center;
+    padding-bottom: 200px;
+    padding-top: 20px;
+}
+
+.img_container {
+    float: left;
+    width: 33%;
+    padding-top: 50px;
+}
+
+.img_resume {
+    border-radius: 15px;
+}
+
+.contact_me {
+    margin-top: 100px;
+    text-align: center;
+    justify-content: left;
+    color:rgb(18, 141, 79) ;
+}
+
+.content
+{
+  background: url("/jpg/tech1.png") no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size : cover;
+   min-height: 800px;
+   width:100%;
+}
+
